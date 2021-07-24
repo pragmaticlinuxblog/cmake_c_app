@@ -7,9 +7,9 @@ CMake-C-App is a template application for programming in C and building with CMa
 
 To obtain and build CMake-C-App, make sure that your Linux system has C development and Git related packages installed:
 
-* Debian/Ubuntu: `sudo apt install git gcc gdb make cmake`
-* Fedora: `sudo dnf install git gcc gdb make cmake`
-* openSUSE: `sudo zypper install git gcc gdb make cmake`
+* Debian/Ubuntu: `sudo apt install git gcc g++ gdb make cmake`
+* Fedora: `sudo dnf install git gcc g++ gdb make cmake`
+* openSUSE: `sudo zypper install git gcc gcc-c++ gdb make cmake`
 
 ## Getting the code
 
