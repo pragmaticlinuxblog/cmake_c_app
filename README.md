@@ -1,7 +1,7 @@
 # CMake-C-App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-CMake-C-App is a template application for programming in C and building with CMake. You can use it as a starting point for developing your own application.
+CMake-C-App is a template application for programming in C and building with CMake. You can use it as a starting point for developing your own application. This repository is also featured on the PragmaticLinux blog in the article about how to [import a CMake project into Visual Studio Code](https://www.pragmaticlinux.com/2021/07/import-a-cmake-project-into-visual-studio-code/).
 
 ## What you need
 
