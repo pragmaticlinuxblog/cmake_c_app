@@ -11,7 +11,7 @@ set(
 )
 
 # Specify what is needed to create the main target.
-add_executable(myapp ${PROG_SRCS})
+add_executable(${PROJECT_NAME} ${PROG_SRCS})
 
 # Specify how to install the binary.
-install (TARGETS myapp RUNTIME DESTINATION bin)
+install (TARGETS ${PROJECT_NAME} RUNTIME DESTINATION bin)
